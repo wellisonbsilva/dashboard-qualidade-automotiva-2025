@@ -3,3 +3,20 @@ Este projeto apresenta o desenvolvimento de um dashboard interativo em Microsoft
 # 📷 Dashboard *Imagem será adicionada após a publicação do dashboard.*
 # 🎯 Objetivo
 Desenvolver um dashboard interativo capaz de transformar dados operacionais em informações estratégicas, permitindo identificar os principais indicadores de qualidade registrados durante o ano de 2025. O projeto busca demonstrar a aplicação de técnicas de análise de dados utilizando Microsoft Excel para apoiar a tomada de decisão baseada em dados.
+---
+## 🛠️ Ferramentas Utilizadas
+
+- **Microsoft Excel**
+  - Tabelas Dinâmicas
+  - Gráficos Dinâmicos
+  - Segmentação de Dados (Slicers)
+  - KPIs
+  - Formatação Condicional
+  - Fórmulas
+  - Diagrama de Pareto
+
+- **Git**
+  - Controle de versão do projeto
+
+- **GitHub**
+  - Publicação e documentação do projeto
