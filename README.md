@@ -20,3 +20,15 @@ Desenvolver um dashboard interativo capaz de transformar dados operacionais em i
 
 - **GitHub**
   - Publicação e documentação do projeto
+  - ---
+## 💡 Competências Demonstradas
+
+Durante o desenvolvimento deste projeto foram aplicadas competências relacionadas a:
+
+- Organização e tratamento de dados
+- Criação de dashboards interativos
+- Desenvolvimento de indicadores (KPIs)
+- Análise exploratória de dados (EDA)
+- Visualização de dados
+- Comunicação de informações para apoio à tomada de decisão
+- Documentação técnica de projetos
