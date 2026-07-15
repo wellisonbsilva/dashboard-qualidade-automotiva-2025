@@ -1,0 +1,106 @@
+# Ferramentas da Qualidade Aplicadas
+
+Durante o desenvolvimento deste projeto foram utilizadas ferramentas clássicas da qualidade para identificar problemas, analisar causas, compreender relações entre variáveis e propor ações de melhoria. O objetivo foi simular um processo real de análise de dados aplicado à indústria automotiva.
+
+# Diagrama de Pareto
+Objetivo:
+Identificar quais problemas representam o maior impacto sobre a qualidade da produção.
+
+Aplicação:
+Foi elaborado um gráfico de Pareto utilizando a quantidade de ocorrências registradas para cada tipo de defeito.
+
+Resultado:
+A análise mostrou que poucos problemas concentram grande parte das ocorrências registradas durante o período analisado. Os principais defeitos representam aproximadamente **56%** do total de ocorrências, permitindo priorizar os esforços de melhoria contínua.
+
+#Gráfico de Dispersão
+Objetivo:
+Verificar a existência de correlação entre variáveis relacionadas ao processo produtivo.
+
+Aplicações:
+Foram realizadas duas análises de dispersão:
+Produção × Defeitos
+
+Objetivo:
+Avaliar se o aumento da produção está relacionado ao aumento da quantidade de defeitos.
+Resultado:
+Foi observada uma correlação positiva moderada, indicando que períodos com maior volume de produção tendem a apresentar maior quantidade de defeitos.
+
+Defeitos × Pós-venda
+Objetivo:
+Analisar a influência dos defeitos identificados na fábrica sobre as ocorrências registradas no pós-venda.
+
+Resultado:
+Foi identificada uma **forte correlação positiva**, indicando que o aumento dos defeitos de fabricação impacta diretamente o número de ocorrências registradas pelos clientes.
+
+# Diagrama de Ishikawa
+Objetivo:
+Identificar possíveis causas que contribuem para os principais problemas encontrados.
+
+Aplicação:
+Foi utilizado o método dos **6M**, considerando:
+
+- Método
+- Máquina
+- Materiais
+- Mão de Obra
+- Medição
+- Meio Ambiente
+Foram construídos diagramas específicos para:
+
+- Torque fora da especificação
+- Falha na pintura
+- Falha na central multimídia
+Resultado:
+A ferramenta permitiu organizar visualmente todas as possíveis causas e direcionar a investigação para os fatores com maior potencial de impacto.
+
+# Técnica dos 5 Porquês
+Objetivo:
+Investigar sucessivamente as causas dos problemas até identificar sua causa raiz.
+
+Aplicação:
+Foi aplicada aos três principais problemas identificados pelo Diagrama de Pareto.
+
+Resultado:
+A análise permitiu identificar causas sistêmicas relacionadas principalmente à:
+
+- ausência de padronização;
+- falhas nos processos de inspeção;
+- inexistência de mecanismos à prova de erro (Poka-Yoke).
+Essas informações serviram como base para elaboração dos planos de ação.
+
+# Plano de Ação 5W2H
+Objetivo:
+Transformar as causas identificadas em ações práticas de melhoria.
+
+Aplicação:
+Para cada problema principal foi elaborado um plano contendo:
+
+- What (O que fazer)
+- Why (Por que fazer)
+- Where (Onde)
+- When (Quando)
+- Who (Quem)
+- How (Como)
+- How Much (Quanto custa)
+
+Resultado:
+Foram propostas ações voltadas para:
+
+- padronização dos processos;
+- treinamento dos operadores;
+- revisão dos procedimentos;
+- implantação de inspeções;
+- calibração de equipamentos;
+- implementação de dispositivos Poka-Yoke.
+
+Conclusão:
+A utilização integrada das ferramentas da qualidade permitiu transformar dados operacionais em informações estratégicas para apoio à tomada de decisão.
+O fluxo de análise adotado neste projeto seguiu uma sequência lógica:
+
+1. Identificação dos problemas (Pareto)
+2. Investigação das relações entre variáveis (Dispersão)
+3. Levantamento das possíveis causas (Ishikawa)
+4. Identificação da causa raiz (5 Porquês)
+5. Definição das ações corretivas (5W2H)
+
+Esse processo reproduz uma abordagem amplamente utilizada em programas de melhoria contínua e gestão da qualidade na indústria automotiva.
