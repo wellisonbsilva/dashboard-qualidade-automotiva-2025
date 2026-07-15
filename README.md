@@ -19,6 +19,11 @@ Principais resultados:
 Este projeto apresenta o desenvolvimento de um dashboard interativo em Microsoft Excel para análise de indicadores de qualidade automotiva referentes ao ano de 2025. A solução foi desenvolvida utilizando uma base de dados fictícia criada exclusivamente para fins de estudo e composição de portfólio, simulando um cenário real de monitoramento da qualidade em uma indústria automotiva.O dashboard foi projetado para apoiar a tomada de decisão por meio da consolidação de indicadores, identificação de áreas críticas, análise dos principais problemas de qualidade e acompanhamento das ocorrências ao longo do período analisado.
 # 📷 Dashboard 
 <img width="1267" height="692" alt="image" src="https://github.com/user-attachments/assets/1f1a28ed-30da-4389-9853-f074f4fbb3b9" />
+<img width="1265" height="675" alt="image" src="https://github.com/user-attachments/assets/649bcbf8-c91e-4884-85b6-4b6beff9197c" />
+<img width="1071" height="457" alt="image" src="https://github.com/user-attachments/assets/3c39cdfc-7eb3-4989-9d6c-a6cbddfc812d" />
+<img width="1841" height="676" alt="image" src="https://github.com/user-attachments/assets/5137075f-5fa5-445e-b782-7d2d532433c2" />
+<img width="1416" height="733" alt="image" src="https://github.com/user-attachments/assets/97fabe10-2d3b-4050-be24-4876b21166e2" />
+<img width="1386" height="620" alt="image" src="https://github.com/user-attachments/assets/ce2e2649-9795-4dd8-8aa4-04a28d43f227" />
 
 ## 🎯 Objetivo
 Desenvolver um dashboard interativo capaz de transformar dados operacionais em informações estratégicas, permitindo identificar os principais indicadores de qualidade registrados durante o ano de 2025. O projeto busca demonstrar a aplicação de técnicas de análise de dados utilizando Microsoft Excel para apoiar a tomada de decisão baseada em dados.
